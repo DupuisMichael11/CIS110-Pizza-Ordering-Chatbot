@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CIS110 Pizza Ordering Chatbot", "CIS110 Pizza Ordering Chatbot.pyproj", "{DABC6D45-BEEA-4F79-A91F-70735EC51690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABC6D45-BEEA-4F79-A91F-70735EC51690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABC6D45-BEEA-4F79-A91F-70735EC51690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E083685A-3668-4632-B140-DB290D15B142}
+	EndGlobalSection
+EndGlobal
